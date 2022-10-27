@@ -1,0 +1,2 @@
+class AddColumnDeletedToCompany < ApplicationRecord
+end
